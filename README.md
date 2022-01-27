@@ -1,4 +1,4 @@
-# ScratchLink v1.0
+# ScratchLink v1.0.1
 
 ## Introduction
 
@@ -209,5 +209,6 @@ This Library is made by [@Sid72020123](https://scratch.mit.edu/users/Sid72020123
 
 * 11/12/2021(v0.5) - First Started Making This Library.
 * 12/12/2021(v1.0) - Updated and First Release!
+* 27/01/2022(v1.0.1) - Updated Comments API
 
 ## Thank You!

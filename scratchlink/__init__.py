@@ -1,5 +1,5 @@
 __name__ = "scratchlink"
-__version__ = "1.0"
+__version__ = "1.0.1"
 __developer__ = "Siddhesh Chavan"
 __documentation__ = "https://github.com/Sid72020123/scratchlink"
 __doc__ = f"""
@@ -12,6 +12,7 @@ Documentation:
 History:
     11/12/2021(v0.5) - First Started Making This Library.
     12/12/2021(v1.0) - Updated and First Release!
+    27/01/2022(v1.0.1) - Updated Comments API
 """
 
 from scratchlink.ScratchLink import ScratchLink
